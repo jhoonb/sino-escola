@@ -10,8 +10,6 @@ import random
 import pygame
 import time
 from pathlib import Path
-import threading
-
 
 class Sino:
 
@@ -167,10 +165,6 @@ class Sino:
         for h in self._horarios:
 
             self._sched.every().day.at(h).do(self._tocar_musica, h)
-
-        # Start a thread to run the events
-        #t = threading.Thread(target=schedule.run)
-        #t.start()
         
         while True:
             print(' -> procurando horario...')
