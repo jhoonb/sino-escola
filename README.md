@@ -1,3 +1,7 @@
+# DESCONTINUADO
+
+### use o programa (pysino)[https://github.com/jhoonb/pysino]
+
 # Sino Escola
 
 Controle de sino da Escola
