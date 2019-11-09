@@ -1,6 +1,6 @@
 # DESCONTINUADO
 
-### use o programa (pysino)[https://github.com/jhoonb/pysino]
+### use o programa pysino https://github.com/jhoonb/pysino
 
 # Sino Escola
 
